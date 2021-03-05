@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000171
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅༅། །ཉེར་མཁོ་ཐོར་བུ་སྣ་ཚོགས་ཀྱི་སྐོར་ལྷག་པའི་ལྷ་སྣ་ཚོགས་ཀྱི་སྒྲུབ་ཐབས་དང་བསྙེན་ཡིག་སོགས་ཀྱི་སྐོར་ཉེར་མཁོའི་དབང་གི་མཚམས་སྦྱོར་སྣ་ཚོགས་པ་བཅས།
     །
   authors:
   - མཛད་པ་པོ། ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
-  sku: SHE-SG-12
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: SHE-SG-12
 web_metadata:
   title:
     en: Various Sadhanas and Empowerment Rituals
